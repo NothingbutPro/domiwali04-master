@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="domiwali04-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/domiwali04-master.iml" filepath="$PROJECT_DIR$/domiwali04-master.iml" group="domiwali04-master" />
+    </modules>
+  </component>
+</project>
